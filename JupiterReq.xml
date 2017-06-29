@@ -1,0 +1,10 @@
+<Jupiter>
+    <RequestParams>
+        <Name>ChangeRateRq</Name>
+        <id>414D51204D39392E464D422E5352563258F608BE20008E02</id>
+        <Operation>
+            <Type>addition</Type>
+            <Value>13.7</Value>
+        </Operation>
+    </RequestParams>
+</Jupiter>
